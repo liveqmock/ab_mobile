@@ -1,4 +1,3 @@
-ab_mobile_html5
-===============
+ab_mobile
 
 触屏版系统、微网页
