@@ -5,7 +5,7 @@
   <artifactId>ab_mobile</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>ab_mobile Maven Webapp</name>
+  <name>ab_mobile</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
