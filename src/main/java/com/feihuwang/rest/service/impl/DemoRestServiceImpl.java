@@ -5,7 +5,7 @@ import org.apache.commons.logging.LogFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.baoyinli.pc.service.DemoService;
+import com.feihuwang.pc.service.DemoService;
 import com.feihuwang.rest.service.DemoRestService;
 import com.feihuwang.utils.DataFormatUtil;
 

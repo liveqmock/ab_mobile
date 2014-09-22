@@ -12,7 +12,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>ab.baoyinli</groupId>
+			<groupId>ab.feihuwang.com</groupId>
 			<artifactId>ab_service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
